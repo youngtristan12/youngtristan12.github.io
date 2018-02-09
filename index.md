@@ -39,3 +39,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 ###World storyscape
+<script src="/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/youngtristan12/world" ></script>
